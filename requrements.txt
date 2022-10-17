@@ -1,0 +1,2 @@
+bcolors==1.0.4
+termcolor==2.0.1
